@@ -6,7 +6,7 @@
 Process.getpid 
 # equals to "$$"
 ```
-Bash shell equivalent
+PID of the current shell
 ```bash
 echo $$
 ```

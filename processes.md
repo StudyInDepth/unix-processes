@@ -6,6 +6,10 @@
 Process.getpid 
 # equals to "$$"
 ```
+Bash shell equivalent
+```bash
+echo $$
+```
 
 ## Every process has parent processes
 

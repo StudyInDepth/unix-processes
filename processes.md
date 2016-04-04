@@ -6,9 +6,9 @@
 Process.getpid 
 # equals to "$$"
 ```
-PID of the parent current shell
+PID of the parent-current shell
 ```bash
-echo $$
+echo $$ # equals Process.ppid
 ```
 
 ## Every process has parent processes

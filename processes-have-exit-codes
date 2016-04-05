@@ -1,0 +1,6 @@
+When a process comes to an end, it has one last chance to make its mark on the world: its exit code. 
+Every process that exits does so with a numeric code, from 0-255, denoting whether it exited successfully or with an error.
+Traditionally, a process that exits with an exit code of 0 is said to successful. Any other code denotes an error, with
+different code pointing to different errors.
+
+
